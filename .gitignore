@@ -1,2 +1,4 @@
+# Virtual Environment and other folders
 .idea/
 venv/
+__pycache__/
