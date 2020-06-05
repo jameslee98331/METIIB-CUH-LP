@@ -41,5 +41,5 @@ jobs:
 #      - name: Static type checking
 #        run: mypy
 #
-#      - name: pytest
-#        run: python -m pytest tests/
+      - name: pytest
+        run: python -m pytest tests/
