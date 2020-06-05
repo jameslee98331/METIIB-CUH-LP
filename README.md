@@ -1,5 +1,5 @@
 ## University of Cambridge MET IIB - Cambridge University Hospitals NHS Foundation Trust Long Project
-### Project Executive Summary
+### Summary
 Histopathology is the microscopic examination of a biopsy by a pathologist. A biopsy is a procedure that takes tissue from the body to make a diagnosis of medical conditions. The biopsy preparation process turns tissue from the body into histology slides. This process consists of 7 steps: collection, grossing, processing, embedding, microtomy, and staining, and examination. This project focuses on the automation of the embedding sub-process. The embedding process takes in processed tissues in cassettes and outputs tissues embedded in wax blocks.
 
 <div align="center">
@@ -31,10 +31,19 @@ Key Recommendations:
 
 ### Automation System Concept Design
 #### Concept Sketch
+<div align="center">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/layout.png" alt="System Work Flow" height="300">
+<p>System Layout</p>
+</div>
+
 #### Overall System Flowchart
+<div align="center">
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/work_flow.png" alt="System Work Flow" height="450">
+</div>
 
 #### Information Flowchart
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/system_design_deployment.png" alt="System Information Flow" height="250">
+<div align="center">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/system_design_deployment.png" alt="System Information Flow" height="150">
+</div>
 
 ### Computer Vision Prototype
