@@ -29,11 +29,20 @@ Key Recommendations:
 *7th June 2020*
 
 ## Automation System Concept Design
-### Concept Sketch
+### Overall System Flowchart
 <div align="center">
-<p>System Layout</p>
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/layout.png" alt="System Layout" height="300">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/work_flow.png" alt="System Work Flow" height="450">
 </div>
+
+### Information Flowchart
+<div align="center">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/system_design_deployment.png" alt="System Information Flow" height="250">
+</div>
+
+### Concept Sketch
+System Layout |
+:-------------------------:|
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/layout.png" alt="System Layout" height="300"> |
 
 Robotic Arm | End Effector
 :-------------------------:|:-------------------------:
@@ -47,15 +56,7 @@ Cassette Fixture |
 :-------------------------:|
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/cassette_fixture.png" alt="Cassette Fixture" height="300"> |
 
-
-### Overall System Flowchart
-<div align="center">
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/work_flow.png" alt="System Work Flow" height="450">
-</div>
-
-### Information Flowchart
-<div align="center">
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/system_design_deployment.png" alt="System Information Flow" height="250">
-</div>
-
 ## Computer Vision Prototype
+Skin Layer | Non-Skin Layer
+:-------------------------:|:-------------------------:
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/skin.JPG" alt="Skin Layer" height="250"> | <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/non_skin.JPG" alt="Non-Skin Layer" height="250">
