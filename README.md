@@ -1,5 +1,5 @@
-## University of Cambridge MET IIB - Cambridge University Hospitals NHS Foundation Trust Long Project
-### Summary
+# University of Cambridge MET IIB - Cambridge University Hospitals NHS Foundation Trust Long Project
+## Summary
 
 <div align="center">
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/overall_process.png" alt="The Biopsy Preparation Process" height="150">
@@ -28,8 +28,8 @@ Key Recommendations:
 *Manufacturing Engineering Tripos Part IIB* \
 *7th June 2020*
 
-### Automation System Concept Design
-#### Concept Sketch
+## Automation System Concept Design
+### Concept Sketch
 <div align="center">
 <p>System Layout</p>
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/layout.png" alt="System Layout" height="300">
@@ -48,14 +48,14 @@ Cassette Fixture |
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/cassette_fixture.png" alt="Cassette Fixture" height="300"> |
 
 
-#### Overall System Flowchart
+### Overall System Flowchart
 <div align="center">
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/work_flow.png" alt="System Work Flow" height="450">
 </div>
 
-#### Information Flowchart
+### Information Flowchart
 <div align="center">
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/system_design_deployment.png" alt="System Information Flow" height="250">
 </div>
 
-### Computer Vision Prototype
+## Computer Vision Prototype
