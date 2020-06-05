@@ -1,4 +1,4 @@
-name: auto_embed CI
+name: Long Project CI
 
 on:
   push:
