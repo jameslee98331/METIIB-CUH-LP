@@ -2,9 +2,15 @@
 ### Project Executive Summary
 Histopathology is the microscopic examination of a biopsy by a pathologist. A biopsy is a procedure that takes tissue from the body to make a diagnosis of medical conditions. The biopsy preparation process turns tissue from the body into histology slides. This process consists of 7 steps: collection, grossing, processing, embedding, microtomy, and staining, and examination. This project focuses on the automation of the embedding sub-process. The embedding process takes in processed tissues in cassettes and outputs tissues embedded in wax blocks.
 
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/overall_process.png" alt="System Work Flow" height="100">
+<div align="center">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/overall_process.png" alt="System Work Flow" height="150">
+<p>The Biopsy Preparation Process</p>
+</div>
 
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/embed_process.png" alt="System Work Flow" height="100">
+<div align="center">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/embed_process.png" alt="System Work Flow" height="150">
+<p>The Embedding Process</p>
+</div>
 
 The histopathology laboratory at Cambridge University Hospitals NHS Foundation Trust (CUH) currently experiences efficiency problems. The demand has risen by 9.40% and the FTE staff count has risen by 22.76% in the past 3 years. However, the KPI measurement for efficiency has dramatically decreased to 35-40%, half of the 80% target. The key causes for this decrease in efficiency are skills shortages and constraints with working hours. With the increasing demand for pathology services and expectations for high quality results, there is a need for automation in histopathology labs to improve efficiency.
 
@@ -26,7 +32,7 @@ Key Recommendations:
 ### Automation System Concept Design
 #### Concept Sketch
 #### Overall System Flowchart
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/work_flow.png" alt="System Work Flow" height="300">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/work_flow.png" alt="System Work Flow" height="450">
 
 #### Information Flowchart
 <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/system_design_deployment.png" alt="System Information Flow" height="250">
