@@ -41,11 +41,11 @@ Robotic Arm | End Effector
 
 Mould Feeder | Mould Fixture
 :-------------------------:|:-------------------------:
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_feeder.png" alt="Mould Feeder" height="300"> | <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_fixture.png" alt="Mould Fixture" height="300">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_feeder.png" alt="Mould Feeder" height="350"> | <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_fixture.png" alt="Mould Fixture" height="200">
 
 Cassette Fixture |
 :-------------------------:|
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/cassette_fixture.png" alt="Cassette Fixture" height="200"> |
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/cassette_fixture.png" alt="Cassette Fixture" height="300"> |
 
 
 #### Overall System Flowchart
