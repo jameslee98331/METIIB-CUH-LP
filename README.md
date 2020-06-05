@@ -14,6 +14,6 @@ Key Recommendations:
 -	Involve biomedical scientists and lab technicians in the development of the automation system to harness their expertise and knowledge while building harmony between the workforce and the machines, and
 -	Consider automation while innovating new processes to prepare biopsies.
 
-Wang Kei James Lee \
-Manufacturing Engineering Tripos Part IIB \
-7th June 2020
+*Wang Kei James Lee* \
+*Manufacturing Engineering Tripos Part IIB* \
+*7th June 2020*
