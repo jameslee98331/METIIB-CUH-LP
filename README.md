@@ -37,11 +37,11 @@ Key Recommendations:
 
 Robotic Arm | End Effector
 :-------------------------:|:-------------------------:
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/robotic_arm.png" alt="Robotic Arm" height="200"> | <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/end_effector.png" alt="End Effector" height="375">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/robotic_arm.png" alt="Robotic Arm" height="300"> | <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/end_effector.png" alt="End Effector" height="300">
 
 Mould Feeder | Mould Fixture
 :-------------------------:|:-------------------------:
-<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_feeder.png" alt="Mould Feeder" height="200"> | <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_fixture.png" alt="Mould Fixture" height="375">
+<img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_feeder.png" alt="Mould Feeder" height="300"> | <img src="https://github.com/jameslee98331/METIIB-CUH-LP/blob/master/README_images/mould_fixture.png" alt="Mould Fixture" height="300">
 
 Cassette Fixture |
 :-------------------------:|
